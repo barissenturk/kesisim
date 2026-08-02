@@ -6,8 +6,8 @@ Bu workspace iki ayrı projeye ayrıldı:
 
 | Proje | Klasör | GitHub | Deploy |
 |---|---|---|---|
-| API | [`api/`](./api) | [kesisim-api](https://github.com/barissenturk/kesisim-api) | Railway |
-| Frontend | [`frontend/`](./frontend) | [kesisim-web](https://github.com/barissenturk/kesisim-web) | Vercel |
+| API | [`api/`](./api) | [football-api](https://github.com/barissenturk/football-api) | Railway |
+| Frontend | [`frontend/`](./frontend) | [played-both](https://github.com/barissenturk/played-both) | Vercel |
 
 ## Lokal çalıştırma
 
